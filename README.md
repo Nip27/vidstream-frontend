@@ -1,4 +1,4 @@
-# ChaiTube Frontend
+# Vidstream Frontend
 
 A React.js frontend for the chai-backend project — a YouTube-like video platform.
 
