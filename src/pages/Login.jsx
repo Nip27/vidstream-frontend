@@ -56,7 +56,7 @@ export default function Login() {
             margin: '0 auto 16px',
             boxShadow: 'var(--shadow-accent)',
           }}>☕</div>
-          <h1 style={{ fontSize: 28, marginBottom: 6 }}>ChaiTube</h1>
+          <h1 style={{ fontSize: 28, marginBottom: 6 }}>Vidstream</h1>
           <p style={{ color: 'var(--text-2)', fontSize: 14 }}>Sign in to your account</p>
         </div>
 
